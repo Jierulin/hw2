@@ -1,0 +1,4 @@
+rect funtion tells the computer to draw a rectangle
+recMode funtion tells the computer in what way you want it to draw the rectangle
+Pixel is the small unit in the computer that are labeled by it's location.
+HSB stands for hue, saturation, and brightness
